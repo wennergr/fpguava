@@ -1,9 +1,12 @@
-guava-libraries-fp
+fpguava
 ==================
 
-Extension of the excellent guava library to have more functional constructs and compability with the functionaljava library
+Integration library between guava and functionljava
+ * http://code.google.com/p/guava-libraries/
+ * http://functionaljava.org
 
-Original guava source code:
-http://code.google.com/p/guava-libraries/
+Both great libraries but they don't play nice with eachother
+
+
 
 
